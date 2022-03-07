@@ -1,4 +1,4 @@
-# Automatic-Teller-Machine
+# Automatic Teller Machine 🏦
 
 How to use this project?
 
